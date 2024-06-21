@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-//void suivi_de_ligne(int lecture_cap_gin,int lecture_cap_din);                      //protitype suivi de ligne
+//void suivi_de_ligne(int lecture_cap_gin,int lecture_cap_din);                      //protitype suivi de ligne test
 
 
 int cny1 = 34; //initialisation capteur CNY70
